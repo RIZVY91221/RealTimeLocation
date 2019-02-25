@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Real Time Location</string>
+    <string name="title_activity_map_traking">Map</string>
+</resources>
